@@ -1,0 +1,22 @@
+title: German Gerken
+description: >-
+  Practical engineering for people who run LLM agents in production:
+  measurement, traces, and the Python behind the tools.
+author: German Gerken
+url: "https://germangerken.github.io"
+baseurl: ""
+lang: en
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+permalink: /:year/:month/:day/:title/
+show_excerpts: true
+minima:
+  social_links:
+    github: GermanGerken
+header_pages:
+  - about.md
+exclude:
+  - README.md
