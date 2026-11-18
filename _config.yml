@@ -13,6 +13,7 @@ plugins:
   - jekyll-sitemap
 permalink: /:year/:month/:day/:title/
 show_excerpts: true
+github_username: GermanGerken
 minima:
   social_links:
     github: GermanGerken
