@@ -18,6 +18,7 @@ minima:
   social_links:
     github: GermanGerken
 header_pages:
+  - journeygraph.md
   - about.md
 exclude:
   - README.md
