@@ -2,6 +2,7 @@
 layout: page
 title: JourneyGraph
 permalink: /journeygraph/
+image: /assets/images/journeygraph-og.png
 description: >-
   JourneyGraph is an open-source Python command-line tool that compares AI agent behaviour
   across versions: paths, retries, loops, errors, latency and outcomes across all traces.
